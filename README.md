@@ -13,8 +13,7 @@ This real-world **data science project** analyzes SAADAA’s e-commerce data to 
 ##  Tech Stack & Approach  
 
 - **Google Colab** – End-to-end data analysis & modeling  
-- **Python** – Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning** – Time series forecasting for inventory prediction  
+- **Python** – Pandas, NumPy, Matplotlib, Seaborn   
 - **Data Visualization** – Charts & insights for decision-making  
 
 This project provides **data-driven strategies to improve sales, optimize inventory, and enhance marketing ROI** for an e-commerce business.   
